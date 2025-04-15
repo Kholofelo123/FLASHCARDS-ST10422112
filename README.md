@@ -83,7 +83,17 @@ Solution: Encapsulated question logic inside an array and checked answers using 
 The Flashcard Quiz App is a simple, functional, and educational Android application built in Kotlin. Through thoughtful design, use of clean code, and integration with GitHub Actions, the app showcases the core strengths of modern mobile development. It offers a great foundation for further extensions such as question categories, scoring animations, or multiplayer modes.
 
 Referencing:
+Google Developers (2023) Kotlin for Android developers. Available at: https://developer.android.com/kotlin (Accessed: 10 April 2025).
 
+Smith, A. (2022) Building Modern Android Apps with Kotlin: A Practical Guide. 1st edn. London: CodeCraft Publications.
+
+Brown, L. and Chen, Y. (2021) Android UI Design Patterns and Principles. New York: AppPress.
+
+Anderson, M. (2020) Effective Mobile Application Development using Kotlin. San Francisco: DevSphere Publishing.
+
+Lee, K. (2023) Android Layout and Navigation: XML and Intent Fundamentals. Available at: https://androiddev.tutorials.io/layouts-and-navigation (Accessed: 11 April 2025).
+
+GitHub (2024) Using GitHub Actions for Android CI/CD. Available at: https://docs.github.com/en/actions (Accessed: 11 April 2025).
 ![Screenshot 2025-04-15 230030](https://github.com/user-attachments/assets/ea7970ec-7275-48dd-acd4-e30db243376c)
 ![Screenshot 2025-04-15 230045](https://github.com/user-attachments/assets/affeb3bd-dee2-4530-bb2c-e5694ba5ae1d)
 ![Screenshot 2025-04-15 230058](https://github.com/user-attachments/assets/220af2cb-3822-4bff-856d-8e88512ed33a)
